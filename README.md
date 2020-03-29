@@ -1,0 +1,1 @@
+OP_laba3_VAR1
